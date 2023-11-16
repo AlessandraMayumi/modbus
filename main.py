@@ -33,4 +33,4 @@ def make_api_call_and_save():
 while True:
     make_api_call_and_save()
     # Sleep for an hour (3600 seconds)
-    time.sleep(3)
+    time.sleep(3600)
